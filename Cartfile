@@ -1,2 +1,2 @@
-github "radarlabs/radar-sdk-ios" ~> 3.0.0
+binary "https://raw.githubusercontent.com/radarlabs/radar-sdk-ios/master/RadarSDK.json" ~> 3.0.0
 github "mparticle/mparticle-apple-sdk" ~> 7.0
